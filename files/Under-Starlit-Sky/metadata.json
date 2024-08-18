@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Under-Starlit-Sky",
+        "License": "GPL3.0",
+        "Name": "Under Starlit Sky"
+    }
+}

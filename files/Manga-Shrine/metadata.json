@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Manga-Shrine",
+        "License": "GPL3.0",
+        "Name": "Manga Shrine"
+    }
+}

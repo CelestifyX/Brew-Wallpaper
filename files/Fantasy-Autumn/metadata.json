@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Fantasy-Autumn",
+        "License": "GPL3.0",
+        "Name": "Fantasy Autumn"
+    }
+}

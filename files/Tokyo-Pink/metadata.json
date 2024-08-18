@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Tokyo-Pink",
+        "License": "GPL3.0",
+        "Name": "Tokyo Pink"
+    }
+}

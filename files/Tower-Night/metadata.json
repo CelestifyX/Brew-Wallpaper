@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Tower-Night",
+        "License": "GPL3.0",
+        "Name": "Tower Night"
+    }
+}

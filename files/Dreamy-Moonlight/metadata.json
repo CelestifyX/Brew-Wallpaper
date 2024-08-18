@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Dreamy-Moonlight",
+        "License": "GPL3.0",
+        "Name": "Dreamy Moonlight"
+    }
+}

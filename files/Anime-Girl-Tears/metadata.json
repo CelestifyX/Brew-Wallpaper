@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Anime-Girl-Tears",
+        "License": "GPL3.0",
+        "Name": "Anime Girl Tears"
+    }
+}

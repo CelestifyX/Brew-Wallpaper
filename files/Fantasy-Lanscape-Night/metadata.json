@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Fantasy-Lanscape-Night",
+        "License": "GPL3.0",
+        "Name": "Fantasy Lanscape Night"
+    }
+}

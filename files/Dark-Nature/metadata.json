@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "celestifyx@gmail.com",
+                "Name": "CELESTIFYX Team"
+            }
+        ],
+
+        "Id": "Dark-Nature",
+        "License": "GPL3.0",
+        "Name": "Dark Nature"
+    }
+}
