@@ -1,6 +1,6 @@
 pkgname=brew-wallpaper
 pkgver=1.0
-pkgrel=0
+pkgrel=1
 pkgdesc="Wallpapers for GNU/Linux"
 arch=('any')
 url="https://github.com/celestifyx/brew-wallpaper"
